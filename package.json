@@ -1,8 +1,8 @@
 {
-  "name": "",
+  "name": "iphone-drag-button",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "",
+  "homepage": "https://github.com/johnnynode/iphone-drag-button",
   "devDependencies": {
     "chai": "^4.1.2",
     "gh-pages": "^1.1.0",
