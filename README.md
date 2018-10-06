@@ -2,10 +2,10 @@ Iphone-Drag-Button
 ---
 
 <div align=center>
-  <span>Design sketch<span>
-  <br />
-  <br />
   <img width="300" src="./screenshot/movie.gif"/>
+  <br />
+  <br />
+  <span>Design Sketch<span>
 </div>
 
 
