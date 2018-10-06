@@ -5,7 +5,7 @@ Iphone-Drag-Button
   <span>Design sketch<span>
   <br />
   <br />
-  <img src="./screenshot/movie.gif"/>
+  <img width="300" src="./screenshot/movie.gif"/>
 </div>
 
 
