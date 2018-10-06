@@ -1,16 +1,24 @@
 Iphone-Drag-Button
 ---
 
+<div align=center>
+  <span>Design sketch<span>
+  <br />
+  <br />
+  <img src="./screenshot/movie.gif"/>
+</div>
 
 
 Install
 ---
 
-`npm install`
-
-
+- $ `npm install`
 
 Usage
 ---
 
-`npm start`
+- $ `npm start`
+
+## License
+
+MIT
