@@ -19,6 +19,10 @@ Usage
 
 - $ `npm start`
 
+Remarks
+
+- You could do better by using transition and animation
+
 License
 ---
 
