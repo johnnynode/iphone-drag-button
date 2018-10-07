@@ -1,11 +1,8 @@
 import React from "react";
-import Drag from './Drug';
+import Drag from './Drag';
 import "./App.css";
 
-export default class App extends React.Component {
-  constructor(props) {
-    super(props);
-  }
+export default class App extends React.PureComponent {
 
   render() {
     return (
