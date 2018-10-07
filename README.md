@@ -19,6 +19,7 @@ Usage
 
 - $ `npm start`
 
-## License
+License
+---
 
 MIT
